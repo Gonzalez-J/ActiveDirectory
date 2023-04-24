@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/a/1vb5NE0" alt="Microsoft Active Directory Logo"/>
+<img src="https://imgur.com/9KcAvZj" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
