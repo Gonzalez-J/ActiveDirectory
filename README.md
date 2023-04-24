@@ -1,6 +1,8 @@
 <p align="center">
-<img src="[Imgur](https://imgur.com/9KcAvZj)" alt="Microsoft Active Directory Logo"/>
+ <p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
