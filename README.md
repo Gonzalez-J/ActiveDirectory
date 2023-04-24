@@ -1,6 +1,6 @@
 <p align="center">
  <p>
-<img src="[Imgur](https://imgur.com/9KcAvZj)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pU5A58S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
