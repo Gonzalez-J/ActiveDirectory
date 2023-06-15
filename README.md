@@ -89,12 +89,7 @@ Client-1 is now a part of the domain. Now we will set up remote desktop for non-
 </p>
 <p>
  <p>
-<img src="https://i.imgur.com/qIfxiAG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ciYEADg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- <p>
-<img src="https://i.imgur.com/qIfxiAG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-</p>
-<br />
+ As you can see the Powershell script created a user with the username "bab.hubo" We were able to login to Client-1 with his credentials as a normal user.
